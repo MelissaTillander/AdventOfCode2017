@@ -9,5 +9,5 @@ export class AppComponent {
   title = 'app';
   showNav = true;
 
-  printStuff(){console.log(this.inputText)}
+  printStuff(){console.log("stuff: " + this.inputText)}
 }
