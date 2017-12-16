@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'app';
   showNav = true;
+  appHeader ='Advent of Code 2017'
 
   printStuff(){console.log("Stuff: " + this.inputText)}
 }

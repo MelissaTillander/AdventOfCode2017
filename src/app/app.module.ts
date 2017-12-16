@@ -13,7 +13,7 @@ import { SideNavComponent } from './side-nav/side-nav.component';
     SideNavComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
     FormsModule
   ],
   providers: [],

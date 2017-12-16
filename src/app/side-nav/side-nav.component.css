@@ -1,0 +1,16 @@
+.dayLabel{
+  cursor:pointer;
+  padding:5px;
+  text-align: center;
+}
+
+.sideNavContainer{
+  border-style: solid;
+  width: 10%;
+  height: 1000px;
+  float: left;
+}
+
+div.dayLabel:hover{
+  background-color: #FFE4A0;
+}
